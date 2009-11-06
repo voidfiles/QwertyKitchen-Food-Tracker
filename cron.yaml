@@ -1,0 +1,4 @@
+cron:
+- description: twitter pull
+  url: /tasks/twitter_pull
+  schedule: every 10 minutes
